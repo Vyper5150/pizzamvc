@@ -1,7 +1,7 @@
 <%-- 
     Document   : showRecords
     Created on : Feb 14, 2017, 11:01:30 PM
-    Author     : John Phillips
+    Author     : Rob Shea
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
