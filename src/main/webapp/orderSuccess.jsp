@@ -18,7 +18,7 @@
         <h2>Order details:</h2>
         <p>Email = ${myOrder.email}</p>
         <p>Size = ${myOrder.size}</p>
-        <p>Cust = ${myOrder.crust}</p>
+        <p>Crust = ${myOrder.crust}</p>
         <p>Toppings: 
             <%
                 // Checkboxes from a form may or may not be checked. We can use the
