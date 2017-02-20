@@ -10,7 +10,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>John's JSP Pizza Order</title>
+        <title>Rob's JSP Pizza Order</title>
         <link rel="stylesheet" href="mystyle.css">
     </head>
     <body>
