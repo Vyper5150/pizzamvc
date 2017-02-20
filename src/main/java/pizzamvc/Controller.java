@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * The Controller class handles all requests coming in from the user's browser.
  *
- * @author John Phillips
+ * @author Rob Shea
  */
 public class Controller extends HttpServlet {
 
