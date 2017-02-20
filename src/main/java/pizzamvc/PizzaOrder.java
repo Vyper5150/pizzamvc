@@ -5,18 +5,20 @@ import java.util.Arrays;
 /**
  * A class that represents a single pizza order.
  *
- * @author John Phillips
+ * @author Rob Shea
  */
 public class PizzaOrder {
 
     private String email;
     private String size;
     private String[] toppings;
+    private String crust;
 
     public PizzaOrder() {
         email = "";
         size = "";
         toppings = null;
+        crust ="";
     }
 
     public PizzaOrder(String email, String size, String[] toppings) {
@@ -47,6 +49,14 @@ public class PizzaOrder {
 
     public void setSize(String size) {
         this.size = size;
+    }
+    
+    public String getCrust(){
+        return crust;
+    }
+    
+    public void setCrust(String crust){
+        this.crust = crust;
     }
 
     @Override
