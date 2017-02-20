@@ -42,7 +42,7 @@
                     price = price + 7.00;
                 }
                 
-                if (request.getParameter("cust").equals("pan")){
+                if (request.getParameter("crust").equals("pan")){
                     price = price + 1.00;
                 } else if (request.getParameter("crust").equals("hand-tossed")){
                     price = price + .50;
